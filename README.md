@@ -1,8 +1,6 @@
 # 🚗 Obstacle Avoiding Robotic Car using Arduino UNO
 
-![Obstacle Avoiding Car](images/speed_detector.png)
 
----
 
 ## 📌 Overview
 
