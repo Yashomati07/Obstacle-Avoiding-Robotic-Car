@@ -1,6 +1,6 @@
 # 🚗 Obstacle Avoiding Robotic Car using Arduino UNO
 
-
+![Obstacle Avoiding Car](images/Output_Photo.png)
 
 ## 📌 Overview
 
